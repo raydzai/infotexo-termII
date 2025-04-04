@@ -1,2 +1,2 @@
 # infotexo-termII
-Các bài mã để giải đề cuối kỳ của ray. Thích lưu trữ trên này, hihi.
+Cái này thì trình độ thấp thôi, do trình độ của tui chưa được hay mà. Hihi đọc đừng phán xét tại sao thuật toán chưa tối ưu nhé...
